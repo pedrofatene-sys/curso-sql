@@ -1,15 +1,22 @@
 // Lista de vídeos do YouTube (IDs extraídos das URLs)
 const channels = [
-    { id: 'LakjhD7SWRE', name: 'Organizando os seus dados' },
-    { id: 'e8dQeAIUIs8', name: 'aula - 02' },
-    { id: 'd0jiLHJGRwM', name: 'aula - 03' },
-    { id: 'LAPHMHGdU3o', name: 'aula - 04' },
-    { id: '1fDOyVJFJko', name: 'aula - 05' },
-    { id: 'mpYZGktdB2k', name: 'aula - 06' },
-    { id: 'IhdMJerpMak', name: 'aula - 07' },
-    { id: 'bz7tRRPFd7s', name: 'aula - 08' },
-    { id: 'jRVAD7K1bDU', name: 'aula - 09' },
-    { id: 'NBUJHxwthHA', name: 'aula - 10' }
+    { id: 'Ofktsne-utM', name: 'O que é um Banco de Dados?' },
+    { id: '5JbAOWJbgIA', name: 'Instalando o MySQL com WAMP' },
+    { id: 'R2HrwSQ6EPM', name: 'Instalando o XAMPP' },
+    { id: 'm9YPlX0fcJk', name: 'Criando o primeiro Banco de Dados' },
+    { id: 'cHLKtALWDos', name: 'Melhorando a Estrutura do Banco de Dados' },
+    { id: 'NCG9niOlm40', name: 'Inserindo Dados na Tabela (INSERT INTO)' },
+    { id: 'To9qUcEMuY0', name: 'Alterando a Estrutura da Tabela (ALTER TABLE e DROP TABLE)' },
+    { id: 'wXViczeTr6Q', name: 'Manipulando Linhas (UPDATE, DELETE e TRUNCATE)' },
+    { id: 'w6OYS_M7hTM', name: 'Gerenciando Cópias de Segurança MySQL' },
+    { id: 'OaPMvrA0cA4', name: 'PHPMyAdmin (Parte 1)' },
+    { id: 'EC_1ZtXsUtA', name: 'PHPMyAdmin (Parte 2)' },
+    { id: 'GaOlyL3Uv9M', name: 'SELECT (Parte 1)' },
+    { id: 'q4hPo83-Buo', name: 'SELECT (Parte 2)' },
+    { id: 'ocyVJ9gRUaE', name: 'SELECT (Parte 3)' },
+    { id: '8fxKJWJcRTw', name: 'Modelo Relacional' },
+    { id: 'paZNDJAPT4E', name: 'Chaves Estrangeiras e JOIN' },
+    { id: 'jx2ne8iZMOA', name: 'INNER JOIN com várias tabelas' }
 ];
 
 // Estado atual
